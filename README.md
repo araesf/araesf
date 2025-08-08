@@ -9,16 +9,16 @@
 ---
 
 🏞️ **Personal Hobbies**  
-- 🎻 Competitive **viola & violin** performer, with years of orchestral leadership experience  
-- 💡 Passionate about **productivity tools**, **AI agents**, and **developer tooling**  
-- 📈 Enjoy exploring **financial technology**, **GPU virtualization**, and **system design**  
+- 🎻 Competitive **violist & violinist**, having played in many orchestras and competitions throughout my life
+- 💡 Passionate about **AI agents** and **developer tooling**  
+- 📈 Enjoy exploring **fintech**, **GPU virtualization**, and **system design**  
 - 🌐 Curious about how **AI transforms human–computer interaction** and **real-time data processing**  
 
 ---
 
 📫 **How to Reach Me**  
 [![Email](https://img.shields.io/badge/Email-ara.esfarjani%40gmail.com-red?style=flat&logo=gmail)](mailto:ara.esfarjani@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ara%20Esfarjani-blue?style=flat&logo=linkedin)](https://linkedin.com/in/araesfarjani)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ara%20Esfarjani-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ara-esfarjani)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=flat&logo=firefox)](#)  
 
 ---
