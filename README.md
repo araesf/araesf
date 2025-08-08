@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ara Esfarjani
 
 💫 **About Me**  
-- 🎓 Rising junior at the **University of Southern California** studying **Computer Engineering & Computer Science (CECS)**  
+- 🎓 Junior at the **University of Southern California** studying **Computer Engineering & Computer Science (CECS)**  
 - ⚡ Passionate about **machine learning infrastructure**, **backend engineering**, and **high-performance computing**  
 - 🚀 Experienced in **LLM inference acceleration** (tensor-parallelism, quantization, vLLM) and **system-level software**  
 - 🔬 Interested in the intersection of **AI, embedded systems**, and **large-scale distributed computing**  
