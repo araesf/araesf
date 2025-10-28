@@ -2,16 +2,9 @@
 
 ## About Me  
 - Junior at **USC**, studying **Computer Engineering & Computer Science**  
-- Focused on **ML infrastructure**, **backend systems**, and **high-performance computing**  
+- Focused on **Software Engineering, **Machine Learning**, and **high-performance computing**  
 - Experience with **LLM inference acceleration** (tensor parallelism, quantization, vLLM) and **system-level software**  
 - Interested in **AI + embedded systems** and **distributed computing**  
-
----
-
-## Hobbies & Interests  
-- Competitive **violist & violinist**  
-- Building **AI agents** and **developer tools**  
-- Exploring **fintech**, **GPU virtualization**, and **real-time data systems**  
 
 ---
 
