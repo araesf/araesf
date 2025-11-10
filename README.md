@@ -1,10 +1,9 @@
 # Hey, I’m Ara Esfarjani  
 
 ## About Me  
-- Junior at **USC**, studying **Computer Engineering & Computer Science**  
-- Focused on **Software Engineering, **Machine Learning**, and **high-performance computing**  
-- Experience with **LLM inference acceleration** (tensor parallelism, quantization, vLLM) and **system-level software**  
-- Interested in **AI + embedded systems** and **distributed computing**  
+- I'm a junior at **USC**, studying **Computer Engineering & Computer Science**  
+- I'm experienced with **LLM inference acceleration** and **system-level software**  
+- I'm interested in contributing on projects that are focused on **ML and Embedded Systems**
 
 ---
 
