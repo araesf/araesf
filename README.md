@@ -1,10 +1,9 @@
 # Hey, I’m Ara Esfarjani  
 
 ## About Me  
-- I'm a junior at **USC**, studying **Computer Engineering & Computer Science**  
-- I'm experienced with **LLM inference acceleration** and **system-level software**  
-- I'm interested in contributing on projects that are focused on **ML and Embedded Systems**
-
+- Currently @ Coinbae
+- Previously @ Noise Labs, Celestial AI, Pivotal
+- I like writing cool SW that does cool things
 ---
 
 ## Reach Me  
