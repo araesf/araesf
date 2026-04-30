@@ -1,7 +1,7 @@
 # Hey, I’m Ara Esfarjani  
 
 ## About Me  
-- Currently @ Coinbae
+- Currently SWE Intern @ Coinbase
 - Previously @ Noise Labs, Celestial AI, Pivotal
 - I like writing cool SW that does cool things
 ---
